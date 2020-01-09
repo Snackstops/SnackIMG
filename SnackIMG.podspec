@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SnackIMG"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "SnackIMG_SnackIMG_SnackIMG_SnackIMG_SnackIMG_SnackIMG"
 
   # This description is used to generate tags and improve search results.
@@ -90,7 +90,11 @@ Pod::Spec.new do |spec|
   #
 
   spec.source_files  = "SnackIMG", "Classes/**/*"
-  #spec.exclude_files = "Classes/Headers/*.h"
+  spec.exclude_files = "Classes/*"
+
+  #spec.source_files = "照片选择器/HXPhotoPicker/**/*.{h,m}"
+  #spec.resources    = "照片选择器/HXPhotoPicker/Resource/*.{png,xib,nib,bundle}"
+  #spec.framework    = 'UIKit','Photos','PhotosUI'
 
   # spec.public_header_files = "Classes/**/*.h"
 
