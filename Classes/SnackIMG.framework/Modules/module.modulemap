@@ -1,0 +1,6 @@
+framework module SnackIMG {
+  umbrella header "SnackIMG.h"
+
+  export *
+  module * { export * }
+}
