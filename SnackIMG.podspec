@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SnackIMG"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "SnackIMG_SnackIMG_SnackIMG_SnackIMG_SnackIMG_SnackIMG"
 
   # This description is used to generate tags and improve search results.
@@ -118,7 +118,7 @@ Pod::Spec.new do |spec|
   #  Link your library with frameworks, or libraries. Libraries do not include
   #  the lib prefix of their name.
   #
-  spec.frameworks = "UIKit" #系统的framework
+  spec.frameworks = "UIKit","WebKit" #系统的framework
   # spec.framework  = "SomeFramework"
   # spec.frameworks = "SomeFramework", "AnotherFramework"
 
