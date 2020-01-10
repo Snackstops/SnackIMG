@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SnackIMG"
-  spec.version      = "0.0.6"
+  spec.version      = "0.0.7"
   spec.summary      = "SnackIMG_SnackIMG_SnackIMG_SnackIMG_SnackIMG_SnackIMG"
 
   # This description is used to generate tags and improve search results.
@@ -89,7 +89,9 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "SnackIMG", "Classes/*.framework"
+  #spec.source_files  = "SnackIMG", "Classes/*.framework/Headers/*.h"
+  #spec.resource = "Classes/*.framework"
+  spec.vendored_frameworks = "Classes/*.framework"
   #spec.vendored_frameworks = 'Classes/*.framework'
   #spec.exclude_files = "Classes/*"
 
