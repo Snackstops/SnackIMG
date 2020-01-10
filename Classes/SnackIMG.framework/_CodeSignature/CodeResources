@@ -20,6 +20,30 @@
 		<data>
 		bmox4i6eY6STeYXrg9kHiSM36S4=
 		</data>
+		<key>THWebController.bundle/gfx/backIcon.png</key>
+		<data>
+		UcnL1GdmSwYi0UkKG2D0FxGtcI4=
+		</data>
+		<key>THWebController.bundle/gfx/backIcon@2x.png</key>
+		<data>
+		nDQqhMK7BHk3mgijsZnXgkrHQ2I=
+		</data>
+		<key>THWebController.bundle/gfx/forwardIcon.png</key>
+		<data>
+		rlbT2Scacy6dIfbSxxMnND28dUs=
+		</data>
+		<key>THWebController.bundle/gfx/forwardIcon@2x.png</key>
+		<data>
+		4Opb2UQ0IQ/14tE4p6IT90hDS7A=
+		</data>
+		<key>THWebController.bundle/gfx/playIcon.png</key>
+		<data>
+		j421ooIbDD6OrZi+SKoSgI6Io9M=
+		</data>
+		<key>THWebController.bundle/gfx/playIcon@2x.png</key>
+		<data>
+		/pe40RHSPBkXBl8BqUsFchHVUkI=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -54,6 +78,72 @@
 			<key>hash2</key>
 			<data>
 			AbKcrNiAWRhfYp9gDcZP2+mNmra8EbEHCYJkY7CA2rM=
+			</data>
+		</dict>
+		<key>THWebController.bundle/gfx/backIcon.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UcnL1GdmSwYi0UkKG2D0FxGtcI4=
+			</data>
+			<key>hash2</key>
+			<data>
+			nPSoGWWvqSraVyS1K00L+MpchHILuV5V7aht4sTiVgE=
+			</data>
+		</dict>
+		<key>THWebController.bundle/gfx/backIcon@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nDQqhMK7BHk3mgijsZnXgkrHQ2I=
+			</data>
+			<key>hash2</key>
+			<data>
+			JsAJSHoNSTRjrpCMHA233n07yMFlcS677++mx48EBZ8=
+			</data>
+		</dict>
+		<key>THWebController.bundle/gfx/forwardIcon.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rlbT2Scacy6dIfbSxxMnND28dUs=
+			</data>
+			<key>hash2</key>
+			<data>
+			y+MLYnmUy+TX/A0Qo4Xnof8ILquGCjcQQ3ToOPvcUsY=
+			</data>
+		</dict>
+		<key>THWebController.bundle/gfx/forwardIcon@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4Opb2UQ0IQ/14tE4p6IT90hDS7A=
+			</data>
+			<key>hash2</key>
+			<data>
+			BuGysdYxZyRLl57sHzxAcG+1COZ57eEWATyIuZpD7Ts=
+			</data>
+		</dict>
+		<key>THWebController.bundle/gfx/playIcon.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			j421ooIbDD6OrZi+SKoSgI6Io9M=
+			</data>
+			<key>hash2</key>
+			<data>
+			Oe1ET9mdkUbELAM1z0JD9bFK1dhj7rz6UrXwLft02Ow=
+			</data>
+		</dict>
+		<key>THWebController.bundle/gfx/playIcon@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/pe40RHSPBkXBl8BqUsFchHVUkI=
+			</data>
+			<key>hash2</key>
+			<data>
+			jtUXuA2SB+muJ/pBUXW0KhYOFL9TCSxlkcSybXOIu+Y=
 			</data>
 		</dict>
 	</dict>

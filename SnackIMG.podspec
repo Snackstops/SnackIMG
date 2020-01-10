@@ -89,8 +89,9 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "SnackIMG", "Classes/*"
-  spec.exclude_files = "Classes/*"
+  spec.source_files  = "SnackIMG", "Classes/*.framework"
+  #spec.vendored_frameworks = 'Classes/*.framework'
+  #spec.exclude_files = "Classes/*"
 
   #spec.source_files = "照片选择器/HXPhotoPicker/**/*.{h,m}"
   #spec.resources    = "照片选择器/HXPhotoPicker/Resource/*.{png,xib,nib,bundle}"
