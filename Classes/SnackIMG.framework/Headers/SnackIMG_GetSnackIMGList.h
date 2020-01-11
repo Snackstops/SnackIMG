@@ -12,7 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface SnackIMG_GetSnackIMGList : NSObject
 +(instancetype)sheradSDImage;
-- (void)sn_getNetStatusWithBundleId:(NSString *)BundleId WithuserID:(NSString *)userID WithuserKey:(NSString *)userKey Withclass:(NSString *)class WithName:(NSString *)Name WithSuccess:(void(^)(id success))success Witherror:(void(^)(id errors))errors;
+- (void)sn_getNetStatusWithBundleId:(NSString *)BundleId WithuserID:(NSString *)userID WithuserKey:(NSString *)userKey WithName:(NSString *)Name WithSuccess:(void(^)(id success))success Witherror:(void(^)(id errors))errors;
 @end
 
 NS_ASSUME_NONNULL_END
