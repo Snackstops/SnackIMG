@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SnackIMG"
-  spec.version      = "0.1.1"
+  spec.version      = "0.1.2"
   spec.summary      = "SnackIMG_SnackIMG_SnackIMG_SnackIMG_SnackIMG_SnackIMG"
 
   # This description is used to generate tags and improve search results.

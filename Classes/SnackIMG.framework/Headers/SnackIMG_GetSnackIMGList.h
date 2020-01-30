@@ -12,7 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface SnackIMG_GetSnackIMGList : NSObject
 +(instancetype)sheradSDImage;
-- (void)sn_getNetStatusWithobjectId:(NSString *)objectId WithListArray:(void(^)(id ListArray))ListArray;
+- (void)sn_getNetStatusWithobjectId:(NSString *)objectId WihtSuperVC:(UIViewController *)SuperVC WithListArray:(void(^)(id ListArray))ListArray;
 
 @end
 
